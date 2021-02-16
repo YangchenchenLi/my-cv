@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="edit">
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/about/avatar.jpg" afterDir="false" />
+      <change beforePath="$USER_HOME$/README.md" beforeDir="false" afterPath="$USER_HOME$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <workItem from="1613441056525" duration="71000" />
       <workItem from="1613441152136" duration="3155000" />
       <workItem from="1613451180492" duration="319000" />
-      <workItem from="1613451511296" duration="437000" />
+      <workItem from="1613451511296" duration="605000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="edit">
-      <change beforePath="$USER_HOME$/README.md" beforeDir="false" afterPath="$USER_HOME$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/ContactDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/ContactDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +38,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/components/about" />
       <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/src/components/resume" />
-      <recent name="$PROJECT_DIR$/src/components/portfolio" />
-      <recent name="$PROJECT_DIR$/src/components/experience" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -52,8 +58,17 @@
       <workItem from="1613441056525" duration="71000" />
       <workItem from="1613441152136" duration="3155000" />
       <workItem from="1613451180492" duration="319000" />
-      <workItem from="1613451511296" duration="605000" />
+      <workItem from="1613451511296" duration="977000" />
+      <workItem from="1613452783028" duration="2660000" />
     </task>
+    <task id="LOCAL-00001" summary="edit">
+      <created>1613452461108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613452461108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

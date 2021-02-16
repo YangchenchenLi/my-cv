@@ -10,7 +10,6 @@ export default class About extends Component {
     render() {
         let resumeData = this.props.resumeData;
 
-
         return (
             <section id='about'>
                 <div className='container'>

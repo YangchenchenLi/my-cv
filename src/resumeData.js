@@ -23,7 +23,6 @@ let resumeData = {
                 "[DECO 7180] Design Computing Studio 1 - Interactive Technology: 6"
             ]
         },
-
         {
             'universityName':'Western Carolina University',
             'program':'Exchange program for one semester',
@@ -33,12 +32,29 @@ let resumeData = {
                 "[ACCT 251] Financial Acct-A User Perspect: A+",
                 "[ACCT 252] Using Acct Info for Mgt Dec: A"
             ]
+        }
+    ],
+    "skills":[
+        {
+            "skillRelated":"Web Front End",
+            "skill":[
+                "React | JavaScript | Bootstrap4 | HTML5 | CSS | Adobe XD"
+            ]
+        },
+        {
+            "skillRelated":"Web Back End",
+            "skill":[
+                "PHP | AJAX | SQL | Web Security | Data Encryption"
+            ]
+        },
+        {
+            "skillRelated":"Communication Skill, Problem Solving Skill",
+            "skill":""
         },
 
-    ],
 
 
-
+    ]
 }
 
 export default resumeData;

@@ -9,9 +9,9 @@ export default class Resume extends Component {
         let resumeData = this.props.resumeData;
 
         return(
-            <div>
+            <section id='resume'>
                 <Education education={resumeData.education}/>
-            </div>
+            </section>
         )
     }
 }

@@ -3,7 +3,8 @@ import React, {Component} from 'react';
 import './App.css';
 import resumeData from '../../resumeData';
 import About from '../about/About';
-import Header from "../Header/Header";
+import Header from "../header/Header";
+import Resume from '../resume/Resume'
 
 
 export default class App extends Component {
@@ -13,6 +14,7 @@ export default class App extends Component {
             <div>
                 <Header />
                 <About resumeData={resumeData}/>
+                <Resume resumeData={resumeData}/>
             </div>
         )
     }

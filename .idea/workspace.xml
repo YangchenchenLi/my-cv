@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'About'">
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'About' &amp; 'Header'">
+      <change afterPath="$PROJECT_DIR$/src/components/resume/Education.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/resume/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/resume/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Resume.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +35,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -57,7 +61,7 @@
       <workItem from="1613441152136" duration="3155000" />
       <workItem from="1613451180492" duration="319000" />
       <workItem from="1613451511296" duration="977000" />
-      <workItem from="1613452783028" duration="6268000" />
+      <workItem from="1613452783028" duration="11451000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1613452461108</created>
@@ -73,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613457332231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update 'About' &amp; 'Header'">
+      <created>1613461608648</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613461608648</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit" />
     <MESSAGE value="update 'About'" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 'About'" />
+    <MESSAGE value="update 'About' &amp; 'Header'" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 'About' &amp; 'Header'" />
   </component>
 </project>

@@ -6,7 +6,7 @@ export default class Education extends Component {
         let education = this.props.education;
 
         return(
-            <section id='resume'>
+            <section id='resume' className='container'>
                 <div className='row education'>
                     <div className='col-sm-3'>
                         <h1><span>Education</span></h1>

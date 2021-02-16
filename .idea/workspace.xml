@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'About' &amp; 'Header'">
-      <change afterPath="$PROJECT_DIR$/src/components/resume/Education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/resume/resume.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resume/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Resume.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
+    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Resume'">
+      <change beforePath="$PROJECT_DIR$/src/components/resume/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Education.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +54,7 @@
       <workItem from="1613441152136" duration="3155000" />
       <workItem from="1613451180492" duration="319000" />
       <workItem from="1613451511296" duration="977000" />
-      <workItem from="1613452783028" duration="11451000" />
+      <workItem from="1613452783028" duration="11707000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1613452461108</created>
@@ -84,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613461608648</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update 'Resume'">
+      <created>1613477621590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613477621590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +106,7 @@
     <MESSAGE value="edit" />
     <MESSAGE value="update 'About'" />
     <MESSAGE value="update 'About' &amp; 'Header'" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 'About' &amp; 'Header'" />
+    <MESSAGE value="update 'Resume'" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 'Resume'" />
   </component>
 </project>

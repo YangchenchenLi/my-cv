@@ -1,8 +1,24 @@
-.avatar{
-    height: 200px;
-    width: 200px;
-    border-radius: 100px;
+#about{
+    /*background: #2B2B2B;*/
+    padding-top: 96px;
+    padding-bottom: 66px;
+    overflow: hidden;
 }
 
+#about h2 {
+    font: 22px/30px 'opensans-bold', sans-serif;
+    margin-bottom: 12px;
+}
+#about p,
+#about li{
+    line-height: 30px;
+    color: #7A7A7A;
+}
 
+.avatar{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
 

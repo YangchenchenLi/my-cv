@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 
 import Education from "./Education";
+import Skills from './Skills';
 import './resume.css'
 
 export default class Resume extends Component {
@@ -11,6 +12,7 @@ export default class Resume extends Component {
         return(
             <section id='resume'>
                 <Education education={resumeData.education}/>
+                <Skills skills={resumeData.skills}/>
             </section>
         )
     }

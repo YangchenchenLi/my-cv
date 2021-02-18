@@ -10,7 +10,7 @@ let resumeData = {
     ],
     "education":[
         {
-            'universityName':'the University of Queensland',
+            'universityName':'The University of Queensland',
             'program':'Master of Information Technology',
             'period':'Feb 2019 - Dec 2020',
             'GPA':'6.25/7',
@@ -48,12 +48,21 @@ let resumeData = {
             ]
         },
         {
-            "skillRelated":"Communication Skill, Problem Solving Skill",
-            "skill":""
+            "skillRelated":"Cloud Computing",
+            "skill":"Docker | Apache Spark | Scala"
         },
-
-
-
+        {
+            "skillRelated":"Data Mining",
+            "skill":"Python Pandas | Jupyter Notebook"
+        },
+        {
+            "skillRelated":"iOS App Development",
+            "skill":"Swift | Xcode | iOS Storyboards"
+        },
+        {
+            "skillRelated":"Other Skills",
+            "skill":"Communication | Problem Solving | Brain Storming | Time Management | Multitasks"
+        }
     ]
 }
 

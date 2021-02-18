@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Resume'">
-      <change afterPath="$PROJECT_DIR$/src/components/resume/Skills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/about/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/resume/Education.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/resume/Resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Resume.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/resume/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/Skills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/resume/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/resume.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
     </list>
@@ -60,7 +59,8 @@
       <workItem from="1613441152136" duration="3155000" />
       <workItem from="1613451180492" duration="319000" />
       <workItem from="1613451511296" duration="977000" />
-      <workItem from="1613452783028" duration="13060000" />
+      <workItem from="1613452783028" duration="13490000" />
+      <workItem from="1613608747721" duration="3238000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1613452461108</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613477902473</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update 'Resume'">
+      <created>1613479724746</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613479724746</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

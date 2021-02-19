@@ -2,9 +2,11 @@ import React, {Component} from 'react';
 
 import './App.css';
 import resumeData from '../../resumeData';
+import timelineElements from "../experience/timelineElements";
 import About from '../about/About';
 import Header from "../header/Header";
 import Resume from '../resume/Resume'
+import Experience from "../experience/Experience";
 
 
 export default class App extends Component {
@@ -15,6 +17,7 @@ export default class App extends Component {
                 <Header />
                 <About resumeData={resumeData}/>
                 <Resume resumeData={resumeData}/>
+                <Experience timelineElements={timelineElements}/>
             </div>
         )
     }

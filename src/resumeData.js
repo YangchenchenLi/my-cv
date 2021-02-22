@@ -63,6 +63,23 @@ let resumeData = {
             "skillRelated":"Other Skills",
             "skill":"Communication | Problem Solving | Brain Storming | Time Management | Multitasks"
         }
+    ],
+    'portfolio':[
+        {
+            'name':'EventScheduler',
+            'link':'https://github.com/YangchenchenLi/EventScheduler',
+            'coverPicture':'../images/web.jpg'
+        },
+        {
+            'name':'MRI project data analysis',
+            'link':'https://github.com/YangchenchenLi/MRI-data-analysis',
+            'coverPicture':'../images/data.jpg'
+        },
+        {
+            'name':'EcoRewards',
+            'link':'https://github.com/YangchenchenLi/EcoRewards',
+            'coverPicture':'../images/ios.jpg'
+        }
     ]
 }
 

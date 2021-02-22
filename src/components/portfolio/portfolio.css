@@ -1,0 +1,28 @@
+#portfolio h2 {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+
+  margin-bottom: 50px;
+}
+#portfolio-wrapper .columns { margin-bottom: 36px; }
+
+.portfolio-item .item-wrap {
+  background: #fff;
+  overflow: hidden;
+  position: relative;
+}
+
+.portfolio-item .item-wrap a {
+  display: block;
+  cursor: pointer;
+}
+
+img{
+  display: block;
+  width: 100%;
+}
+
+h5{
+  text-align: center;
+}

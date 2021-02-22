@@ -2,7 +2,6 @@
   font-size: 30px;
   text-align: center;
   font-family: "Bebas Neue", sans-serif;
-
   margin-bottom: 50px;
 }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
@@ -23,6 +22,10 @@ img{
   width: 100%;
 }
 
-h5{
+#portfolio h5{
   text-align: center;
+}
+
+#portfolio{
+  margin-bottom: 150px;
 }

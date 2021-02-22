@@ -8,6 +8,7 @@ import Header from "../header/Header";
 import Resume from '../resume/Resume'
 import Experience from "../experience/Experience";
 import Portfolio from '../portfolio/Portfolio';
+import Footer from "../footer/Footer";
 
 
 export default class App extends Component {
@@ -20,6 +21,7 @@ export default class App extends Component {
                 <Resume resumeData={resumeData}/>
                 <Experience timelineElements={timelineElements}/>
                 <Portfolio resumeData={resumeData}/>
+                <Footer />
             </div>
         )
     }

@@ -1,0 +1,18 @@
+#contacts{
+    padding-top: 48px;
+    margin-bottom: 60px;
+    background-color:#EEEEEE ;
+    text-align: center;
+    position: relative;
+}
+
+#contacts h5{
+    font-size: 15px;
+}
+
+#contacts li{
+    list-style: none;
+}
+
+
+

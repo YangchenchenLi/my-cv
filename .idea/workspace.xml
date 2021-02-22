@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Experience'">
-      <change afterPath="$PROJECT_DIR$/public/images/data.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/ios.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/portfolio/portfolio.css" afterDir="false" />
+    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Portfolio'">
+      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/experience/experience.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience/experience.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/Portfolio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/portfolio.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
       <workItem from="1613608747721" duration="3768000" />
       <workItem from="1613654355899" duration="8000" />
       <workItem from="1613692102942" duration="6448000" />
-      <workItem from="1613962758759" duration="7764000" />
+      <workItem from="1613962758759" duration="10470000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1613452461108</created>
@@ -124,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613734120439</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update 'Portfolio'">
+      <created>1613984302078</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613984302078</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +151,7 @@
     <MESSAGE value="update 'About' &amp; 'Header'" />
     <MESSAGE value="update 'Resume'" />
     <MESSAGE value="update 'Experience'" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 'Experience'" />
+    <MESSAGE value="update 'Portfolio'" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 'Portfolio'" />
   </component>
 </project>

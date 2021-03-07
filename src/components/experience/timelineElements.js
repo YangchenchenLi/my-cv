@@ -7,8 +7,7 @@ let timelineElements = [
         description:
             "Managing user accounts, corporate assets, and providing IT support",
         skills: "Microsoft 365 Admin Centre | Active Directory | PDQ Inventory",
-        date: "September 2020 - present",
-        icon: "work"
+        date: "September 2020 - Present",
     },
     {
         id: 2,
@@ -19,8 +18,7 @@ let timelineElements = [
             "Data preparation and delimitation, data visualising, data processing and generating useful information for one fMRI project.",
         skills: "Python | Pandas | Jupyter Notebook",
         buttonText: "View Frontend Projects",
-        date: "November 2020 - present",
-        icon: "work"
+        date: "November 2020 - Present",
     },
     {
         id: 3,
@@ -32,7 +30,6 @@ let timelineElements = [
         skills: "BrianStorming | React",
         buttonText: "View Frontend Projects",
         date: "July 2020 - August 2020",
-        icon: "work"
     },
     {
         id: 4,
@@ -44,7 +41,6 @@ let timelineElements = [
         skills: "Corporate System | Communication Skill",
         buttonText: "View Frontend Projects",
         date: "February 2020 - March 2020",
-        icon: "work"
     },
     {
         id: 5,
@@ -56,7 +52,6 @@ let timelineElements = [
         skills:"Presentation Skill | Team Collaborate",
         buttonText: "View Frontend Projects",
         date: "February 2020 - March 2020",
-        icon: "work"
     },
     {
         id: 6,
@@ -68,7 +63,6 @@ let timelineElements = [
         skills:"Multitasks | Communication Skill",
         buttonText: "View Frontend Projects",
         date: "July 2019 - Present",
-        icon: "work"
     }
 ]
 

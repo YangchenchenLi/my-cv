@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
-import { ReactComponent as WorkIcon } from './work.svg';
-
 import {
     VerticalTimeline,
     VerticalTimelineElement,
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
+
+import WorkIcon from "./WorkIcon";
 import './experience.css';
 
 export default class Experience extends Component {
@@ -21,12 +21,12 @@ export default class Experience extends Component {
                     <VerticalTimeline>
                         {
                             timelineElements.map((item) => {
-
                                 return(
                                     <VerticalTimelineElement
                                         key={item.key}
                                         date={item.date}
                                         dataClassName='date'
+                                        icon={<WorkIcon />}
                                     >
                                         <h3 className="vertical-timeline-element-title">
                                             {item.title}

@@ -9,7 +9,7 @@ export default class Header extends Component {
         return(
             <React.Fragment>
                 <header id='home'>
-                    <nav id='nav-wrap' className='navbar navbar-expand-lg'>
+                    <nav id='nav-wrap' className='navbar navbar-expand-sm'>
                         <div className="collapse navbar-collapse" id="navbarNav">
                             <ul id='nav' className='navbar-nav'>
                                 <li className='nav-item current'><a className='nav-link' href='#home'>Home</a></li>

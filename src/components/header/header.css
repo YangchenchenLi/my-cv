@@ -11,6 +11,8 @@ header {
     overflow: hidden;
 }
 
+
+
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
     margin: 0;
     padding: 0;
@@ -27,9 +29,6 @@ header {
     /*padding: 20px;*/
     position: fixed;
     width:100%;
-    /*top:0;*/
-    /*right:0;*/
-    /*text-align: center;*/
     letter-spacing: 1px;
     background-color:skyblue;
     z-index:100;

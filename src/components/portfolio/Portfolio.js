@@ -19,10 +19,12 @@ export default class Portfolio extends Component {
                                 return(
                                     <div className='columns portfolio-item col-sm-4'>
                                         <div className='item-wrap'>
-                                            <h5><a href={item.link}>{item.name}</a></h5>
-                                            <div>
-                                                <img src={item.coverPicture} alt='project cover image' />
-                                            </div>
+                                            <a href={item.link}>
+                                                <div className='background-img'>
+                                                    <img src={item.coverPicture} alt='project cover image' />
+                                                </div>
+                                                <h5>{item.name}</h5>
+                                            </a>
                                         </div>
                                     </div>
                                 )

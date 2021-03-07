@@ -13,7 +13,7 @@ let resumeData = {
             'universityName':'The University of Queensland',
             'program':'Master of Information Technology',
             'period':'Feb 2019 - Dec 2020',
-            'GPA':'6.25/7',
+            'GPA':'6.375/7',
             'highlightedCourses':[
                 "[INFS 7903] Relational Database System: 7",
                 "[INFS 7205] Adv Techn for High Dim Data: 7",

@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Portfolio'">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
+    <list default="true" id="e2483fc4-17dc-4d38-b5f7-42771f77db4f" name="Default Changelist" comment="update 'Portfolio &amp; Contacts'">
+      <change afterPath="$PROJECT_DIR$/src/components/experience/icon-work.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/data.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/data.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/ios.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/ios.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/web.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/web.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience/WorkIcon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experience/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experience/experience.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience/experience.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experience/timelineElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience/timelineElements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contacts/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio/Portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/Portfolio.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/portfolio/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/portfolio/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/resume/resume.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/resume/resume.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resumeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resumeData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +50,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/experience" />
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/src/components/portfolio" />
-      <recent name="$PROJECT_DIR$/src/components/experience" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -62,7 +75,12 @@
       <workItem from="1613608747721" duration="3768000" />
       <workItem from="1613654355899" duration="8000" />
       <workItem from="1613692102942" duration="6448000" />
-      <workItem from="1613962758759" duration="10470000" />
+      <workItem from="1613962758759" duration="10493000" />
+      <workItem from="1614040245708" duration="7082000" />
+      <workItem from="1614059221346" duration="283000" />
+      <workItem from="1614564670834" duration="458000" />
+      <workItem from="1614641242953" duration="475000" />
+      <workItem from="1615075041902" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="edit">
       <created>1613452461108</created>
@@ -127,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613984302078</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update 'Portfolio &amp; Contacts'">
+      <created>1613997729527</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613997729527</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +177,7 @@
     <MESSAGE value="update 'Resume'" />
     <MESSAGE value="update 'Experience'" />
     <MESSAGE value="update 'Portfolio'" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 'Portfolio'" />
+    <MESSAGE value="update 'Portfolio &amp; Contacts'" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 'Portfolio &amp; Contacts'" />
   </component>
 </project>

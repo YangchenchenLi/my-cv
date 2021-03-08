@@ -7,8 +7,8 @@ export default class Header extends Component {
     render(){
 
         return(
-            <React.Fragment>
-                <header id='home'>
+            <section>
+                <header>
                     <nav id='nav-wrap' className='navbar navbar-expand-sm'>
                         <div className="collapse navbar-collapse" id="navbarNav">
                             <ul id='nav' className='navbar-nav'>
@@ -21,11 +21,8 @@ export default class Header extends Component {
                             </ul>
                         </div>
                     </nav>
-
-
                 </header>
-
-            </React.Fragment>
+            </section>
         )
     }
 }

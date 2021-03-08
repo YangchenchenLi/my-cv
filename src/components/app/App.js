@@ -4,6 +4,7 @@ import './App.css';
 import resumeData from '../../resumeData';
 import timelineElements from "../experience/timelineElements";
 import About from '../about/About';
+import Home from '../home/Home';
 import Header from "../header/Header";
 import Resume from '../resume/Resume'
 import Experience from "../experience/Experience";
@@ -17,6 +18,7 @@ export default class App extends Component {
         return(
             <div>
                 <Header />
+                <Home />
                 <About resumeData={resumeData}/>
                 <Resume resumeData={resumeData}/>
                 <Experience timelineElements={timelineElements}/>

@@ -1,0 +1,15 @@
+#video{
+    display: block;
+    margin:0 auto;
+    width: 600px;
+    height: 450px;
+}
+
+.empty{
+    height: 200px;
+}
+#home{
+    height: 1000px;
+    width: 100%;
+    background-color:skyblue;
+}

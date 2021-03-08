@@ -11,15 +11,16 @@ export default class Footer extends Component {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-sm-6'>
-                            <h5>Download Resume</h5>
                             <ul>
-                                <li><a href='#'>Resume</a></li>
+                                <li><h5>Contact Me</h5></li>
+                                <li><a href='#'>0466830999</a></li>
+                                <li><a href='#'>chenchenli1030@gmail.com</a></li>
                             </ul>
                         </div>
 
                         <div className='col-sm-6'>
-                            <h5>Social Link</h5>
                             <ul>
+                                <li><h5>Social Link</h5></li>
                                 <li><a href='https://www.linkedin.com/in/yangchenchen-li/'>Linkedin</a></li>
                                 <li><a href='https://github.com/YangchenchenLi'>GitHub</a></li>
                             </ul>

@@ -13,8 +13,8 @@ export default class Footer extends Component {
                         <div className='col-sm-6'>
                             <ul>
                                 <li><h5>Contact Me</h5></li>
-                                <li><a href='#'>0466830999</a></li>
-                                <li><a href='#'>chenchenli1030@gmail.com</a></li>
+                                <li><a>0466830999</a></li>
+                                <li><a>chenchenli1030@gmail.com</a></li>
                             </ul>
                         </div>
 

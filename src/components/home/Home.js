@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ReactPlayer from "react-player";
+import YouTube from 'react-youtube';
 
 import './home.css';
 
@@ -10,7 +10,7 @@ export default class Home extends Component {
         return(
             <section id='home'>
                 <div className='empty'></div>
-                <ReactPlayer id='video' url='https://youtu.be/PnwJvYZ6Qt4'/>
+                <YouTube id='video' videoId='PnwJvYZ6Qt4'/>
             </section>
         )
     }

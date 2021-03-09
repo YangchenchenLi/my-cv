@@ -66,19 +66,19 @@ let resumeData = {
     ],
     'portfolio':[
         {
-            'name':'EventScheduler',
-            'link':'https://github.com/YangchenchenLi/EventScheduler',
-            'coverPicture':'../images/web.jpg'
+            'name': 'EventScheduler',
+            'link': 'https://github.com/YangchenchenLi/EventScheduler',
+            'coverPicture': 'https://github.com/YangchenchenLi/resume/blob/master/public/images/web.jpg?raw=true',
         },
         {
             'name':'MRI project data analysis',
             'link':'https://github.com/YangchenchenLi/MRI-data-analysis',
-            'coverPicture':'../images/data.jpg'
+            'coverPicture':'https://github.com/YangchenchenLi/resume/blob/master/public/images/data.jpg?raw=true'
         },
         {
             'name':'EcoRewards',
             'link':'https://github.com/YangchenchenLi/EcoRewards',
-            'coverPicture':'../images/ios.jpg'
+            'coverPicture':'https://github.com/YangchenchenLi/resume/blob/master/public/images/ios.jpg?raw=true'
         }
     ]
 }

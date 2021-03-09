@@ -35,7 +35,7 @@ export default class Experience extends Component {
                                             <a href={item.link}>{item.location}</a>
                                         </h5>
                                         <p id="description">{item.description}</p>
-                                        <span>Developed Skills: {item.skills}</span>
+                                        <span className='skills'><b>Developed Skills: </b>{item.skills}</span>
                                     </VerticalTimelineElement>
                                 )
                             })

@@ -5,7 +5,7 @@ let timelineElements = [
         location: "Brisbane EDA",
         link:'https://www.choosebrisbane.com.au/Corporate',
         description:
-            "Managing user accounts, corporate assets, and providing IT support",
+            "Managing user accounts, corporate licences, corporate assets, upgrading hardware and providing IT support.",
         skills: "Microsoft 365 Admin Centre | Active Directory | PDQ Inventory",
         date: "September 2020 - Present",
     },
@@ -15,7 +15,7 @@ let timelineElements = [
         location: "UQ Centre for Advanced Imaging",
         link: 'https://cai.centre.uq.edu.au/',
         description:
-            "Data preparation and delimitation, data visualising, data processing and generating useful information for one fMRI project.",
+            "Analyse raw experiment data of awake animal imaging, including data preparation and delimitation, data visualising, data processing and generating useful information for one fMRI project.",
         skills: "Python | Pandas | Jupyter Notebook",
         buttonText: "View Frontend Projects",
         date: "November 2020 - Present",
@@ -26,7 +26,7 @@ let timelineElements = [
         location: "Aubot",
         link: 'https://aubot.com/',
         description:
-            "Front-end designer in a web education project.",
+            "Front-end designer in a web education project. Designed low-fidelity and medium-fidelity prototype of the website in PowerPoint and Adobe XD. Brainstormed over 300 high-technique related scenarios.",
         skills: "BrianStorming | React",
         buttonText: "View Frontend Projects",
         date: "July 2020 - August 2020",
@@ -37,7 +37,7 @@ let timelineElements = [
         location: "Brisbane Marketing",
         link: 'https://www.choosebrisbane.com.au/Corporate?utm_source=redirects&utm_medium=www.brisbanemarketing.com.au&utm_campaign=301_Redirects',
         description:
-            "Upgrading hardware, upgrading systems and setting up new PCs.",
+            "Upgrading hardware, upgrading systems and setting up new PCs. Learn how to build and deploy website platforms.",
         skills: "Corporate System | Communication Skill",
         buttonText: "View Frontend Projects",
         date: "February 2020 - March 2020",
@@ -48,7 +48,7 @@ let timelineElements = [
         location: "Brisbane City Council",
         link: 'https://www.brisbane.qld.gov.au/about-council/governance-and-strategy/business-in-brisbane/growing-brisbanes-economy/international-business/2021-international-internship-program',
         description:
-            "One-month internship at Brisbane Marketing.",
+            "One of the twelve successful candidates of the 2020 Sister City Internship Program of Brisbane City Council.Assigned to have a one-month internship at Brisbane EDA (formerly Brisbane Marketing).",
         skills:"Presentation Skill | Team Collaborate",
         buttonText: "View Frontend Projects",
         date: "February 2020 - March 2020",
@@ -59,7 +59,8 @@ let timelineElements = [
         location: "JR Academy",
         link: 'https://jracademy.com.au/',
         description:
-            "Tutoring university students. Specialized in discrete mathematics, relational database, human-interaction computer, and advanced techniques for high-dimensional data",
+            "Tutoring university students. Specialized in discrete mathematics, relational database, human-interaction computer, and advanced techniques for high-dimensional data. Tutored over 25 students with 40 tutorial hours about the relational database from\n" +
+            "August to November in 2020.",
         skills:"Multitasks | Communication Skill",
         buttonText: "View Frontend Projects",
         date: "July 2019 - Present",

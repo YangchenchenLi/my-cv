@@ -10,7 +10,7 @@ export default class Home extends Component {
         return(
             <section id='home'>
                 <div className='empty'></div>
-                <YouTube id='video' videoId='PnwJvYZ6Qt4'/>
+                <YouTube id='video' videoId='2QSxKVHGTs4'/>
             </section>
         )
     }

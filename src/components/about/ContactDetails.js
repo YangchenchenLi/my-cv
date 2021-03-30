@@ -15,8 +15,9 @@ export default class ContactDetails extends Component {
                                 return(
                                     <div>
                                         <li>Address: {item.address}</li>
-                                        <li>Email: {item.email}</li>
                                         <li>Phone: {item.phone}</li>
+                                        <br />
+                                        <p>{item.contactMe}</p>
                                     </div>
 
                                 )

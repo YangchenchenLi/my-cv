@@ -4,8 +4,9 @@ let resumeData = {
     "contactDetails":[
         {
             "address": "21 Patrick Lane, Toowong, 4066",
-            "email": "chenchenli1030@gmail.com",
-            "phone": "0466830999"
+            "phone": "0466830999",
+            "contactMe":"PLEASE FEEL FREE TO CONTACT ME :)"
+
         }
     ],
     "education":[
